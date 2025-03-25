@@ -71,7 +71,7 @@ The goal of this project was to calculate the number of hours worked each day, t
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://retji.github.io/Portfolio/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="RETJI JOSIAH CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
