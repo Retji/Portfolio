@@ -2,7 +2,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! My name is Retji 🤓, a data analyst, teacher, and consultant with a passion for data & public policy. With experience across education, energy and public service, I help organisations solve challenges and unlock growth through data and strategic planning.
+Hello! My name is Retji 🤓, a microsoft certified data analyst, teacher, and consultant with a passion for data & public policy. With experience across education, energy and public service, I help organisations solve challenges and unlock growth through data and strategic planning.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
