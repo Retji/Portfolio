@@ -42,7 +42,10 @@ This project was developed as part of a Microsoft Power Platform challenge focus
 
 ![image](https://user-images.githubusercontent.com/37171086/230789590-da5fc3e0-521b-49ab-a287-ec314406a060.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+This project involved data cleaning, pivot table creation, and dashboard design for a fictitious company called Samari Packaging Company. The company has two types of workers, Checkers and Packagers, and their work hours were recorded using time_in and time_out data.
+
+The goal of this project was to calculate the number of hours worked each day, the number of packaged items by each Packager, and the number of checked packaged items by each Checker. The project also aimed to calculate the pay for each worker based on their work hours and the number of items produced or checked.
+
 [Read More](https://github.com/Retji/A-Process-Dashboard-of-Samari-Company-Using-Excel)
 
 
