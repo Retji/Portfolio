@@ -74,6 +74,10 @@ The goal of this project was to calculate the number of hours worked each day, t
       <td><a href="RETJI JOSIAH CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
+      <td>💌</td>
+      <td><a href="Certificates.pdf">Download my Certificates</a></td>
+    </tr>
+    <tr>
       <td>🌐</td>
       <td><a href="https://linkedin.com/retji-dakon">The things I do daily on LinkedIn</a></td>
     </tr>
