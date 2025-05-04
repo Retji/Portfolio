@@ -25,8 +25,8 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Wema Bank Customers Onboarding Campaign Report.**
-![image](wema bank analytics.PNG)
+**Kema Bank Customers Onboarding Campaign Report.**
+![image](finance.PNG)
 
 This Power BI report provides an interactive and data-driven visualization of (Wema Bank customer onboarding report for the year 2023 that captures customer demographics, sales performance, financial analysis, project monitoring, etc.).
 
