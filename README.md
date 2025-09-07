@@ -31,7 +31,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 This Power BI report provides an interactive and data-driven visualization of (Wema Bank customer onboarding report for the year 2023 that captures customer demographics, sales performance, financial analysis, project monitoring, etc.).
 
 
-[Read More and Interract with the PowerBI Report](https://app.powerbi.com/links/3896n8MlcU?ctid=c0c38273-dac3-4d22-b5a3-3ae17e81ef40&pbi_source=linkShare)
+[Read More and Interract with the PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiZGQ4NTc3NGUtYzhlOC00ZmNlLTllZGYtMDg4MWM4YWQxN2I3IiwidCI6ImMwYzM4MjczLWRhYzMtNGQyMi1iNWEzLTNhZTE3ZTgxZWY0MCJ9)
 
 **Paw & Hearts Animal Shelter Solutions (PowerApp & PowerBI)**
 
