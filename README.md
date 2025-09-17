@@ -68,7 +68,7 @@ Detect and resolve bottlenecks early.
 
 This project demonstrates my expertise in data modeling, DAX, visualization design, and monitoring & evaluation analytics — skills that are highly transferable to roles in data analysis, business intelligence, and project management analytics across both public and private sector organizations.
 
-[Read More and Interract with the PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiYjkxM2QzMDUtY2JjMi00MzEyLTk4Y2YtODQwZjBjMDRiMDc0IiwidCI6ImMwYzM4MjczLWRhYzMtNGQyMi1iNWEzLTNhZTE3ZTgxZWY0MCJ9&embedImagePlaceholder=true)
+[Read More and Interract with the Project Management Report](https://app.powerbi.com/view?r=eyJrIjoiYjkxM2QzMDUtY2JjMi00MzEyLTk4Y2YtODQwZjBjMDRiMDc0IiwidCI6ImMwYzM4MjczLWRhYzMtNGQyMi1iNWEzLTNhZTE3ZTgxZWY0MCJ9&embedImagePlaceholder=true)
 
 
 **2. Kema Bank Customers Onboarding Campaign Report.**
