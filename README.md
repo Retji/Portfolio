@@ -25,6 +25,65 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
+**Project Description: Project Monitoring & Evaluation Dashboard**
+![image](![image](project management.PNG)
+
+As a Planner engaged in the oversight of multiple government and organizational initiatives, I designed and developed a comprehensive Project Monitoring and Evaluation (M&E) Dashboard in Microsoft Power BI. This solution was created to enhance transparency, accountability, and decision-making by providing stakeholders with real-time insights into project implementation, financials, and performance indicators.
+
+**🎯 Objectives**
+
+- Track the execution of capital projects and programmes across multiple sectors and locations.
+
+- Monitor budget vs. actual expenditure to identify cost overruns or underspending.
+
+- Measure project progress against predefined indicators (e.g., completion rates, milestones).
+
+- Provide decision-makers with actionable intelligence for improved planning, resource allocation, and performance management.
+
+**📊 Key Features of the Dashboard**
+
+_KPI Summary Cards_: Quick insight into total projects, percentage completed on time, budget utilization, and average delays.
+
+_Financial Tracking_: Budget vs. actual expenditure visualized across sectors and projects, highlighting variances.
+
+_Project Status Monitoring_: Breakdown of projects by status (Completed, Ongoing, Delayed) with drillthrough capability.
+
+_Contractor Performance Analysis_: Comparison of contractors against project delays, enabling accountability and performance benchmarking.
+
+Geospatial Mapping: Interactive filters by location (states/LGAs) and sectors to evaluate project distribution.
+
+_Milestone Tracker_: Gantt-style timeline visualization showing planned vs. actual milestone delivery dates.
+
+_M&E Indicators_: Target vs. achieved values displayed in a progress-style chart, ensuring that development outcomes are measurable and transparent.
+
+**⚙️ Technical Implementation**
+
+Built data models integrating Projects, Indicators, and Milestones tables with well-defined relationships.
+
+Created DAX measures for KPIs including cost variance, percentage achieved, and project delays.
+
+Applied conditional formatting and custom visuals to highlight progress, risks, and underperformance.
+
+Implemented hierarchical drilldowns (from sector → project → milestone) for multi-level performance insights.
+
+Designed for scalability and reusability, enabling adoption across diverse organizations and project portfolios.
+
+**💡 Business Impact**
+
+This dashboard transforms raw project and financial data into an intuitive, interactive performance management tool. It empowers leadership to:
+
+Detect and resolve bottlenecks early.
+
+- Hold contractors accountable.
+
+- Optimize budget utilization.
+
+- Ensure evidence-based planning and evaluation of government and donor-funded programmes.
+
+✅ Portfolio Value:
+This project demonstrates my expertise in data modeling, DAX, visualization design, and monitoring & evaluation analytics — skills that are highly transferable to roles in data analysis, business intelligence, and project management analytics across both public and private sector organizations.
+[Read More and Interract with the PowerBI Report]([https://app.powerbi.com/view?r=eyJrIjoiYjkxM2QzMDUtY2JjMi00MzEyLTk4Y2YtODQwZjBjMDRiMDc0IiwidCI6ImMwYzM4MjczLWRhYzMtNGQyMi1iNWEzLTNhZTE3ZTgxZWY0MCJ9&embedImagePlaceholder=true](https://app.powerbi.com/view?r=eyJrIjoiYjkxM2QzMDUtY2JjMi00MzEyLTk4Y2YtODQwZjBjMDRiMDc0IiwidCI6ImMwYzM4MjczLWRhYzMtNGQyMi1iNWEzLTNhZTE3ZTgxZWY0MCJ9&embedImagePlaceholder=true)
+
 **Kema Bank Customers Onboarding Campaign Report.**
 ![image](finance.png)
 
