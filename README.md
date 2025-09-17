@@ -37,6 +37,7 @@ As a Planner engaged in the oversight of multiple government and organizational 
 - Provide decision-makers with actionable intelligence for improved planning, resource allocation, and performance management.
 
 **📊 Key Features of the Dashboard**
+
 _KPI Summary Cards_: Quick insight into total projects, percentage completed on time, budget utilization, and average delays.
 _Financial Tracking_: Budget vs. actual expenditure visualized across sectors and projects, highlighting variances.
 _Project Status Monitoring_: Breakdown of projects by status (Completed, Ongoing, Delayed) with drillthrough capability.
@@ -48,6 +49,7 @@ _Milestone Tracker_: Gantt-style timeline visualization showing planned vs. actu
 _M&E Indicators_: Target vs. achieved values displayed in a progress-style chart, ensuring that development outcomes are measurable and transparent.
 
 **⚙️ Technical Implementation**
+
 Built data models integrating Projects, Indicators, and Milestones tables with well-defined relationships.
 Created DAX measures for KPIs including cost variance, percentage achieved, and project delays.
 Applied conditional formatting and custom visuals to highlight progress, risks, and underperformance.
@@ -55,6 +57,7 @@ Implemented hierarchical drilldowns (from sector → project → milestone) for 
 Designed for scalability and reusability, enabling adoption across diverse organizations and project portfolios.
 
 **💡 Business Impact**
+
 This dashboard transforms raw project and financial data into an intuitive, interactive performance management tool. It empowers leadership to:
 Detect and resolve bottlenecks early.
 - Hold contractors accountable.
@@ -62,9 +65,11 @@ Detect and resolve bottlenecks early.
 - Ensure evidence-based planning and evaluation of government and donor-funded programmes.
 
 ✅ Portfolio Value:
+
 This project demonstrates my expertise in data modeling, DAX, visualization design, and monitoring & evaluation analytics — skills that are highly transferable to roles in data analysis, business intelligence, and project management analytics across both public and private sector organizations.
 
-[Read More and Interract with the PowerBI Report]([https://app.powerbi.com/view?r=eyJrIjoiYjkxM2QzMDUtY2JjMi00MzEyLTk4Y2YtODQwZjBjMDRiMDc0IiwidCI6ImMwYzM4MjczLWRhYzMtNGQyMi1iNWEzLTNhZTE3ZTgxZWY0MCJ9&embedImagePlaceholder=true]
+[Read More and Interract with the PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiYjkxM2QzMDUtY2JjMi00MzEyLTk4Y2YtODQwZjBjMDRiMDc0IiwidCI6ImMwYzM4MjczLWRhYzMtNGQyMi1iNWEzLTNhZTE3ZTgxZWY0MCJ9&embedImagePlaceholder=true)
+
 
 **2. Kema Bank Customers Onboarding Campaign Report.**
 ![image](finance.png)
